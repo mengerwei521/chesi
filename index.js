@@ -1,5 +1,5 @@
 <Script>
-    let main = 'main7';
-    let dev ='main7';
-    let meng ='main7';
-</Script>
+    let main = 'main8';
+    let dev ='main8';
+    let meng ='meng8';
+</Script> 
