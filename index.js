@@ -3,6 +3,6 @@
     let dev ='dev11';
     let meng ='cccccccccc';
     if(dev == '1') {
-        let url = 'www.baidu.com'+'?noCode=1';
+        let url = 'www.baidu.com'+'?nNode=1';
     }
 </Script> 
