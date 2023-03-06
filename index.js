@@ -1,8 +1,8 @@
 <Script>
-    let main = 'main11';
+    let main = 'main222';
     let dev ='dev11';
     let meng ='cccccccccc';
     if(dev == '1') {
-        let url = 'www.baidu.comsssss'+'?meng=2';
+        let url = 'www.baidu.com'+'?meng=2';
     }
 </Script> 
