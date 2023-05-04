@@ -1,6 +1,6 @@
 <Script>
-    let meng ='111'
-    if(meng ==1){
+    let ceshi ='111'
+    if(ceshi ==1){
         console.log(1)
     }else{
         console.log(2)
