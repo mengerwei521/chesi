@@ -1,6 +1,6 @@
 <Script>
-    let dev ='111'
-    if(dev ==1){
+    let chesi ='222'
+    if(chesi ==1){
         console.log(1)
     }else{
         console.log('main')
