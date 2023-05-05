@@ -1,6 +1,7 @@
 <Script>
     let ceshi ='555'
-    if(ceshi ==6){
+    let params ='dev'
+    if(ceshi =='dev'){
         console.log('dev')
     }else{
         console.log('dev')
