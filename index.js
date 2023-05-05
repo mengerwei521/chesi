@@ -1,7 +1,7 @@
 <Script>
     let ceshi ='555'
-    let params ='main'
-    if(ceshi =='main'){
+    let params ='dev'
+    if(ceshi =='dev'){
         console.log('dev')
     }else{
         console.log('dev')
