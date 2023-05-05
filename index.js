@@ -1,8 +1,8 @@
 <Script>
-    let ceshi ='444'
-    if(ceshi ==4){
-        console.log(4)
+    let ceshi ='555'
+    if(ceshi ==5){
+        console.log(5)
     }else{
-        console.log(4)
+        console.log(5)
     }
 </Script> 
