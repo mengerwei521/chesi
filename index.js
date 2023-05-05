@@ -1,7 +1,7 @@
 <Script>
     let ceshi ='555';
-    let dev ='dev'
-    if(ceshi == dev){
+    let params ='meng'
+    if(ceshi == params){
         console.log('dev')
     }else{
         console.log(6)
