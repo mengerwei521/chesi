@@ -1,8 +1,8 @@
 <Script>
-    let main ='111';
-    if(main ==1){
-        console.log(1)
+    let ceshi ='555'
+    if(ceshi ==5){
+        console.log(5)
     }else{
-        console.log('main')
+        console.log(5)
     }
 </Script> 
