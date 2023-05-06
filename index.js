@@ -1,6 +1,6 @@
 <Script>
     let ceshi ='main'
-    let params ='dev'
+    let params ='dev1'
     if(ceshi =='dev'){
         console.log('dev')
     }else{
